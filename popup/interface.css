@@ -1,0 +1,25 @@
+body {
+    color: white;
+    padding: 15px;
+}
+
+p, button {
+    font-family: 'Roboto', sans-serif;
+}
+
+div.method {
+    display: flex; justify-content: space-around;
+    align-items:baseline;
+    padding: 10px;
+}
+
+div.method button {
+    font-size:14px;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+
+div.method p {
+    font-size:14px;
+    margin: 0 10px;
+}
